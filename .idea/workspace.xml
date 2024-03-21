@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340510-bafe-45ad-80d1-c93fa8ca2cfe" name="Changes" comment="">
+    <list default="true" id="e7340510-bafe-45ad-80d1-c93fa8ca2cfe" name="Changes" comment="Idea alterações">
+      <change afterPath="$PROJECT_DIR$/Tamoio-Previa/ReconhecedorImagemApriltag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tamoionet-previa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tamoionet-previa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamoio-Previa/Interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tamoio-Previa/InterfaceApriltag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamoio-Previa/ReconhecedorImagem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamoio-Previa/files/resultadoArea.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tamoio-Previa/files/resultadoArea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamoio-Previa/files/resultadoRetangulo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Tamoio-Previa/files/resultadoRetangulo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +40,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2dsABdskbEClgatQVaWqywjUMAg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,12 +55,17 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Repositorios/Tamoio-Previa/Tamoio-Previa/Interface.py&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Reps/Tamoionet-Previa/Tamoio-Previa/InterfaceApriltag.py&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Reps\Tamoionet-Previa\Tamoio-Previa" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Interface" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="InterfaceApriltag" type="PythonConfigurationType" factoryName="Python">
       <module name="tamoionet-previa" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +73,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tamoio-Previa/Interface.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tamoio-Previa/InterfaceApriltag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,6 +104,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710786278711</updated>
     </task>
+    <task id="LOCAL-00001" summary="Idea alterações">
+      <option name="closed" value="true" />
+      <created>1710884086509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710884086509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Idea alterações" />
+    <option name="LAST_COMMIT_MESSAGE" value="Idea alterações" />
   </component>
 </project>
